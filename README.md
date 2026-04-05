@@ -39,7 +39,7 @@ npm run dev
 ```
 
 ### 3. Usage
-- Open your browser and go to http://localhost:3000 or check from deployed link: 
+- Open your browser and go to http://localhost:3000
 - Drag and drop a research paper (PDF/DOCX/TXT) or paste the abstract directly.
 - Select your Preferred Keyword extraction Engine (Semantic KeyBERT is recommended for high-quality, abstract-level embedding extraction).
 - Click 'Extract Keywords' and review your results.
